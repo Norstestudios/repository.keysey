@@ -104,7 +104,7 @@ Requer o addon [COLOR yellow] f4mTester[/COLOR] para funcionar Os Canais.</descr
 	<extension point="xbmc.addon.repository" name="Repositorio KeySey">
 		<info compressed="false">https://raw.githubusercontent.com/Norstestudios/repository.keysey/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/Norstestudios/repository.keysey/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/Norstestudios/repository.keysey/master/ZipFiles</datadir>
+		<datadir zip="true">https://raw.githubusercontent.com/Norstestudios/repository.keysey/tree/master/ZipFiles</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 	    <summary>Repositorio Oficial keysey</summary>
